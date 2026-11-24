@@ -1,6 +1,0 @@
-STUDENT~student1~Demo Student~03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4~300~Java Basics,10,10;Java Basics,10,10
-TEACHER~teacher1~Demo Teacher~03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-STUDENT~20025~AHMED MUSA~03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4~150~Java Basics,10,10
-STUDENT~2020~FAHIM~03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4~150~Java Basics,10,10
-QUESTION~TF~Java Basics~10~Java is an object-oriented programming language.~true
-QUESTION~MCQ~Collections~15~Which collection preserves insertion order?~HashSet^ArrayList^TreeSet^HashMap^1
