@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainFrame",
+            "request": "launch",
+            "mainClass": "learnsmart.ui.MainFrame",
+            "projectName": "LearnSmart_c06e0791"
+        },
+        {
+            "type": "java",
+            "name": "Run LearnSmart",
+            "request": "launch",
+            "mainClass": "learnsmart.ui.MainFrame",
+            "projectName": "LearnSmart"
+        }
+    ]
+}
